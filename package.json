@@ -1,0 +1,20 @@
+{
+  "name": "git-weekly-ui",
+  "version": "1.0.0",
+  "description": "Repository contains the User Interface for Campus Weekly website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukenge-lukard/git-weekly-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukenge-lukard/git-weekly-ui/issues"
+  },
+  "homepage": "https://github.com/lukenge-lukard/git-weekly-ui#readme"
+}
