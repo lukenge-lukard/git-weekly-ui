@@ -4,7 +4,8 @@
   "description": "Repository contains the User Interface for Campus Weekly website",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app",
+    "dev": "nodemon app"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/lukenge-lukard/git-weekly-ui/issues"
   },
-  "homepage": "https://github.com/lukenge-lukard/git-weekly-ui#readme"
+  "homepage": "https://github.com/lukenge-lukard/git-weekly-ui#readme",
+  "dependencies": {
+    "hbs": "^4.1.2",
+    "nodemon": "^2.0.12"
+  }
 }
